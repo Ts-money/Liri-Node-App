@@ -1,0 +1,18 @@
+Movie: it
+Title: It
+Year: 2017
+IMDB Rating: 7.4/10
+Rotten Tomatoes: 86%
+Country of Production: USA, Canada
+Language: English
+Plot: In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.
+Actors: Jaeden Martell, Jeremy Ray Taylor, Sophia Lillis, Finn Wolfhard
+Movie: hustlers
+Title: Hustlers
+Year: 2019
+IMDB Rating: 6.7/10
+Rotten Tomatoes: 88%
+Country of Production: USA
+Language: English, Spanish, Russian
+Plot: Inspired by the viral New York Magazine article, Hustlers follows a crew of savvy former strip club employees who band together to turn the tables on their Wall Street clients.
+Actors: Constance Wu, Jennifer Lopez, Julia Stiles, Mette Towley
