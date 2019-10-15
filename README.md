@@ -25,7 +25,7 @@ Typing "movie-this" accesses the OMDB API, inserting whatever words are typed af
 
 ![Third Log Screenshot](/images/movie.PNG)
 
-Using the OMDB data, the console displays the movie's title, year, IMDB rating, Rotten Tomatoes rating (if applicable since OMDB also lists television; if there is no Rotten Tomatoes score, it shows "N/A"), country, language, plot summary, and a list of actors. Again, the "Content Added!" line confirms the search terms' insertion into log.txt, as shown below.
+Using the OMDB data, the console displays the movie's title, year, IMDB rating, Rotten Tomatoes rating (if applicable since OMDB also lists television; if there is no Rotten Tomatoes score, it shows "N/A"), country, language, plot summary, and a list of actors.
 
 ## Do-What-It-Says
 
