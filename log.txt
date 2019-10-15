@@ -16,3 +16,40 @@ Country of Production: USA
 Language: English, Spanish, Russian
 Plot: Inspired by the viral New York Magazine article, Hustlers follows a crew of savvy former strip club employees who band together to turn the tables on their Wall Street clients.
 Actors: Constance Wu, Jennifer Lopez, Julia Stiles, Mette Towley
+Song: baby
+Artist: Quality Control
+Song: Baby
+Album: Baby
+Preview URL: https://open.spotify.com/track/2nKYHpmwjLaEOXS3o7QMiz
+Concert: nav
+Venue Name: Rebel
+Venue Location: Toronto, Canada
+Venue Date: 10/24/2019
+Movie: hustlers
+Title: Hustlers
+Year: 2019
+IMDB Rating: 6.7/10
+Rotten Tomatoes: 88%
+Country of Production: USA
+Language: English, Spanish, Russian
+Plot: Inspired by the viral New York Magazine article, Hustlers follows a crew of savvy former strip club employees who band together to turn the tables on their Wall Street clients.
+Actors: Constance Wu, Jennifer Lopez, Julia Stiles, Mette Towley
+Movie: hustlers
+Title: Hustlers
+Year: 2019
+IMDB Rating: 6.7/10
+Rotten Tomatoes: 88%
+Country of Production: USA
+Language: English, Spanish, Russian
+Plot: Inspired by the viral New York Magazine article, Hustlers follows a crew of savvy former strip club employees who band together to turn the tables on their Wall Street clients.
+Actors: Constance Wu, Jennifer Lopez, Julia Stiles, Mette Towley
+Song: "I Want it That Way"
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: The Hits--Chapter One
+Preview URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Song: "I Want it That Way"
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: The Hits--Chapter One
+Preview URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
